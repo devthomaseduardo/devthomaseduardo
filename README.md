@@ -15,3 +15,9 @@ Atuo do front ao deploy, lidando com interfaces, lógica de negócio, integraç�
 💼 LinkedIn: Thomas Eduardo  
 
 Aberto a conversas técnicas, parcerias e oportunidades profissionais.
+
+---
+
+## Deploy notes
+
+Se você estiver publicando no Render e receber erro de `bot.js` ausente, veja: `RENDER_DEPLOY_FIX.md`.
