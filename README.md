@@ -59,4 +59,4 @@ E-mail: contato@thomaseduardo.online
 
 ---
 
-«"Não sei fazer ainda, mas aprendo, evoluo e entrego resultados.
+«"Não sei fazer ainda, mas aprendo, evoluo e entrego resultados."»
