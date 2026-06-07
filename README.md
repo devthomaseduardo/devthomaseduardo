@@ -1,16 +1,18 @@
+Se for para o README do GitHub, eu deixaria em um padrão mais profissional e moderno:
+
 👋 Olá, eu sou Thomas Eduardo
 
-🚀 Desenvolvedor Full Stack | Engenharia de Software | Freelancer
+🚀 Desenvolvedor Full Stack | Freelancer | Estudante de Engenharia de Software
 
 Transformando ideias em produtos digitais modernos, escaláveis e de alta performance.
 
-Sou desenvolvedor Full Stack com foco na construção de aplicações web completas, unindo experiências de usuário modernas com arquiteturas robustas e eficientes. Atualmente atuo como freelancer, desenvolvendo desde landing pages e sistemas web até integrações, automações e soluções personalizadas para empresas e empreendedores.
+Sou desenvolvedor Full Stack apaixonado por tecnologia, desenvolvimento web e construção de soluções que geram impacto real. Atuo desenvolvendo aplicações modernas, combinando interfaces intuitivas com arquiteturas robustas e escaláveis.
 
-Tenho paixão por tecnologia, aprendizado contínuo e desafios que exigem criatividade, lógica e inovação.
+Atualmente trabalho como freelancer, participando de projetos que vão desde landing pages e websites institucionais até sistemas web completos, integrações e automações.
 
 ---
 
-💻 Stack Principal
+💻 Tecnologias
 
 Frontend
 
@@ -42,21 +44,34 @@ Banco de Dados & Infraestrutura
 
 🎯 Atualmente
 
-- 🚀 Desenvolvendo projetos Full Stack para clientes e empresas
-- 📚 Estudando Engenharia de Software
-- ⚡ Aprofundando conhecimentos em arquitetura de sistemas e cloud computing
-- 🔥 Construindo soluções modernas com React, Next.js e Node.js
+- 🚀 Desenvolvendo aplicações Full Stack para clientes e empresas
+- 📚 Graduando em Engenharia de Software
+- ⚡ Estudando Arquitetura de Software e Cloud Computing
+- 🔥 Aprimorando conhecimentos em React, Next.js, Node.js e AWS
+- 💡 Criando soluções focadas em performance, escalabilidade e experiência do usuário
 
 ---
 
-🌐 Contato
+📈 Objetivos
 
-Portfólio: thomaseduardo.online
-
-LinkedIn: linkedin.com/in/devthomaseduardo
-
-E-mail: contato@thomaseduardo.online
+- Construir produtos digitais que resolvam problemas reais
+- Evoluir para posições de Software Engineer e Tech Lead
+- Aprofundar conhecimentos em Arquitetura de Sistemas e Cloud
+- Contribuir para projetos open source e comunidades de tecnologia
 
 ---
 
-«"Não sei fazer ainda, mas aprendo, evoluo e entrego resultados."»
+🌐 Conecte-se comigo
+
+🌍 Portfólio
+https://thomaseduardo.online
+
+💼 LinkedIn
+https://linkedin.com/in/devthomaseduardo
+
+📧 E-mail
+contato@thomaseduardo.online
+
+---
+
+«"Não sei fazer ainda, mas aprendo, evoluo e entrego resultados."»Esse formato fica muito bem no README do GitHub e já passa uma imagem mais próxima de um desenvolvedor pleno/júnior avançado.
