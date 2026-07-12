@@ -1,82 +1,87 @@
-<h1 align="center">Thomas Eduardo</h1>
-<h3 align="center">Full Stack Developer | React • Next.js • Node.js • AWS</h3>
+# Thomas Eduardo
+
+**Full Stack Developer | Product Engineer**  
+React • Next.js • TypeScript • Node.js • AWS
 
 <p align="center">
-  Construo sistemas que resolvem problemas reais de negócio: conversão, automação e performance em produção.
+  <a href="https://thomaseduardo.online"><img src="https://img.shields.io/badge/Portfolio-thomaseduardo.online-E8620A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/devthomaseduardo"><img src="https://img.shields.io/badge/LinkedIn-devthomaseduardo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/devthomaseduardo"><img src="https://img.shields.io/badge/GitHub-devthomaseduardo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+## Sobre mim
+
+Sou **Product Engineer Full Stack** com foco em construir produtos digitais de alta conversão e sistemas escaláveis. Atuo do frontend ao backend, com experiência em automações, integrações de pagamento, arquitetura limpa e deploy em produção.
+
+Tenho um processo estruturado de 6 etapas que aplico em todos os projetos (Discovery → Arquitetura → Desenvolvimento → Testes → Deploy → Iteração), garantindo previsibilidade, qualidade e resultados mensuráveis para clientes e empresas.
+
+**Resultados recentes:**
+- Aumento de **+40% na taxa de conversão** em projeto para Hazap Informática
+- Automação de **100% do funil de vendas** para Instituto Kell
+- Desenvolvimento de plataformas completas (admin + cliente) com autenticação, pagamentos e dashboards
+
+---
+
+## Stack Técnica
+
+| Camada              | Tecnologias                                      |
+|---------------------|--------------------------------------------------|
+| **Frontend**        | Next.js 16 (App Router), React 19, TypeScript, Tailwind CSS 4, Framer Motion, shadcn/ui |
+| **Backend**         | Node.js, Fastify, Express, Prisma, PostgreSQL, MongoDB |
+| **Infra & DevOps**  | AWS, Docker, Vercel, GitHub Actions, CI/CD       |
+| **Integrações**     | Mercado Pago, WhatsApp API (Baileys), JWT/RBAC, Supabase |
+| **Ferramentas**     | Git, pnpm, ESLint, Prettier, Figma (para handoff) |
+
+---
+
+## Projetos em Destaque
+
+| Projeto                    | Tipo                  | Destaque                                      | Stack Principal                  |
+|----------------------------|-----------------------|-----------------------------------------------|----------------------------------|
+| **thomas-eduardo-site**    | Portfólio Profissional | Processo de 6 etapas + cases com métricas    | Next.js + TypeScript + Tailwind |
+| **Homma Design**           | Landing Page          | Design editorial premium + alta conversão    | Next.js + Tailwind              |
+| **TERON Studio / Agents**  | Plataforma de Agentes | Primeiro agente oficial da TERON             | Node.js + TypeScript            |
+| **Auth + RBAC API**        | Backend               | Autenticação JWT + controle de permissões    | Fastify + Prisma + PostgreSQL   |
+
+> Veja todos os projetos e cases completos no meu [portfólio](https://thomaseduardo.online).
+
+---
+
+## Como trabalho
+
+Aplico um processo claro e repetível:
+
+1. **Discovery & Alinhamento** — Entendimento profundo do problema e objetivos de negócio
+2. **Arquitetura & Planejamento** — Definição de stack, estrutura e estimativas
+3. **Desenvolvimento** — Código limpo, componentização e testes
+4. **Validação & QA** — Testes manuais + automação quando aplicável
+5. **Deploy & Monitoramento** — CI/CD + observabilidade
+6. **Iteração & Entrega** — Feedback contínuo e melhorias
+
+---
+
+## O que estou fazendo agora
+
+- Refinando meu portfólio profissional com foco em recrutadores e clientes
+- Desenvolvendo produtos próprios e projetos sob demanda
+- Buscando oportunidades como **Frontend Engineer / Full Stack Engineer** (CLT ou PJ) e projetos freelance de médio/alto impacto
+
+---
+
+## Contato
+
+📧 **contato@thomaseduardo.online**  
+🌐 **thomaseduardo.online**  
+💼 **linkedin.com/in/devthomaseduardo**
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devthomaseduardo&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=E8620A&icon_color=E8620A&text_color=FFFFFF" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <a href="https://thomaseduardo.online"><img src="https://img.shields.io/badge/Portfolio-E8620A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/devthomaseduardo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:contato@thomaseduardo.online"><img src="https://img.shields.io/badge/Email-080808?style=for-the-badge&logo=gmail&logoColor=E8620A" /></a>
-</p>
-
----
-
-### Sobre
-
-Full Stack Developer, atuando entre freelance e projetos próprios. Trabalho a stack completa: do frontend em React/Next.js até infraestrutura na AWS, passando por integrações de pagamento, automação via WhatsApp e sistemas de gestão sob medida para pequenos negócios.
-
-Alguns resultados concretos de projetos que entreguei:
-
-- **Hazap Informática**: aumento de 40% na taxa de conversão com reestruturação de fluxo e interface.
-- **Instituto Kell**: automação de 100% do processo de vendas, eliminando etapas manuais.
-
----
-
-### Stack técnica
-
-**Frontend**
-```
-React · Next.js · TypeScript · Tailwind CSS · Framer Motion
-```
-
-**Backend**
-```
-Node.js · Fastify · Express · Java · Spring Boot · Python
-```
-
-**Dados & Infraestrutura**
-```
-PostgreSQL · MySQL · MongoDB · Supabase · Docker · AWS · Git
-```
-
-**Integrações**
-```
-Mercado Pago · Baileys (WhatsApp API) · JWT Auth
-```
-
----
-
-### Projetos em destaque
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| **Portal Admin + Cliente** | Sistema dual painel com CRUD completo, autenticação JWT e visão sincronizada entre admin e cliente | Next.js, Node.js, PostgreSQL |
-| **Bot WhatsApp (CRM)** | Bot com roteamento de mensagens por tags e integração de CRM | Fastify, Baileys, Supabase |
-| **Barbearia Noir** | Sistema de gestão para barbearias, com agendamento e pagamento integrado | Next.js, Mercado Pago, Vercel |
-| **Homma Design** | Landing page editorial para estúdio de design de interiores | Next.js, Tailwind CSS |
-
----
-
-### Agora
-
-- Construindo produtos e sistemas Full Stack sob demanda
-- Expandindo presença técnica em conteúdo (processo de desenvolvimento documentado em vídeo)
-- Buscando oportunidades CLT/PJ como Frontend/Fullstack Engineer, além de projetos freelance
-
----
-
-### Contato
-
-📧 [contato@thomaseduardo.online](mailto:contato@thomaseduardo.online)
-🌐 [thomaseduardo.online](https://thomaseduardo.online)
-💼 [linkedin.com/in/devthomaseduardo](https://linkedin.com/in/devthomaseduardo)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devthomaseduardo&show_icons=true&theme=dark&hide_border=true&bg_color=080808&title_color=E8620A&icon_color=E8620A&text_color=ffffff" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devthomaseduardo&theme=dark&hide_border=true&background=080808&ring=E8620A&fire=E8620A&currStreakLabel=E8620A" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devthomaseduardo&theme=dark&hide_border=true&background=0D0D0D&ring=E8620A&fire=E8620A&currStreakLabel=E8620A" alt="GitHub Streak" />
 </p>
