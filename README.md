@@ -4,7 +4,7 @@
 React • Next.js • TypeScript • Node.js • AWS
 
 <p align="center">
-  <a href="https://thomaseduardo.online"><img src="https://img.shields.io/badge/Portfolio-thomaseduardo.online-E8620A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.thomaseduardo.com.br"><img src="https://img.shields.io/badge/Portfolio-thomaseduardo.com.br-E8620A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://linkedin.com/in/devthomaseduardo"><img src="https://img.shields.io/badge/LinkedIn-devthomaseduardo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/devthomaseduardo"><img src="https://img.shields.io/badge/GitHub-devthomaseduardo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
@@ -45,7 +45,7 @@ Tenho um processo estruturado de 6 etapas que aplico em todos os projetos (Disco
 | **TERON Studio / Agents**  | Plataforma de Agentes | Primeiro agente oficial da TERON             | Node.js + TypeScript            |
 | **Auth + RBAC API**        | Backend               | Autenticação JWT + controle de permissões    | Fastify + Prisma + PostgreSQL   |
 
-> Veja todos os projetos e cases completos no meu [portfólio](https://thomaseduardo.online).
+> Veja todos os projetos e cases completos no meu [portfólio](https://www.thomaseduardo.com.br).
 
 ---
 
@@ -72,8 +72,8 @@ Aplico um processo claro e repetível:
 
 ## Contato
 
-📧 **contato@thomaseduardo.online**  
-🌐 **thomaseduardo.online**  
+📧 **contato@thomaseduardo.com.br**  
+🌐 **www.thomaseduardo.com.br**  
 💼 **linkedin.com/in/devthomaseduardo**
 
 ---
