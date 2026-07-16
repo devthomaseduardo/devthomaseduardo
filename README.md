@@ -7,6 +7,7 @@ React • Next.js • TypeScript • Node.js • AWS
   <a href="https://www.thomaseduardo.com.br"><img src="https://img.shields.io/badge/Portfolio-thomaseduardo.com.br-E8620A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://linkedin.com/in/devthomaseduardo"><img src="https://img.shields.io/badge/LinkedIn-devthomaseduardo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/devthomaseduardo"><img src="https://img.shields.io/badge/GitHub-devthomaseduardo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=devthomaseduardo&color=orange" alt="Profile Views" />
 </p>
 
 ---
@@ -57,7 +58,7 @@ Aplico um processo claro e repetível:
 2. **Arquitetura & Planejamento** — Definição de stack, estrutura e estimativas
 3. **Desenvolvimento** — Código limpo, componentização e testes
 4. **Validação & QA** — Testes manuais + automação quando aplicável
-5. **Deploy & Monitoramento** — CI/CD + observabilidade
+e 5. **Deploy & Monitoramento** — CI/CD + observabilidade
 6. **Iteração & Entrega** — Feedback contínuo e melhorias
 
 ---
@@ -85,3 +86,10 @@ Aplico um processo claro e repetível:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devthomaseduardo&theme=dark&hide_border=true&background=0D0D0D&ring=E8620A&fire=E8620A&currStreakLabel=E8620A" alt="GitHub Streak" />
 </p>
+
+---
+
+> **📊 Visualizações do perfil**  
+> O badge no topo mostra o número aproximado de visualizações deste perfil no GitHub (via serviço komarev). Obrigado pela visita! ⭐️
+
+Se quiser que eu adicione o contador de visualizações em outros repositórios específicos, é só pedir!
