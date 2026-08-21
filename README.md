@@ -1,48 +1,79 @@
 # Thomas Eduardo
 
-**Desenvolvedor Full Stack · Engenharia de Software**
+**Desenvolvedor Full Stack | React · TypeScript · Node.js · Next.js | APIs REST · PostgreSQL · Docker**
 
-Construo produtos web e sistemas de ponta a ponta, da interface ao backend, dados, integrações e publicação.
+Desenvolvo aplicações web, APIs REST e produtos digitais de ponta a ponta, trabalhando com interface, regras de negócio, autenticação, dados, integrações, testes e publicação.
 
-<p align="left">
-  <a href="https://thomaseduardo.com.br"><img src="https://img.shields.io/badge/PORTFÓLIO-thomaseduardo.com.br-1C1D20?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" /></a>
-  <a href="https://linkedin.com/in/devthomaseduardo"><img src="https://img.shields.io/badge/LINKEDIN-devthomaseduardo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
+Atualmente curso **Engenharia de Software** e venho aprofundando minha atuação em desenvolvimento Full Stack, arquitetura backend, bancos de dados e infraestrutura.
 
-## Sobre
+[Portfólio](https://thomaseduardo.com.br) · [LinkedIn](https://linkedin.com/in/devthomaseduardo) · [Email](mailto:contato@thomaseduardo.com.br)
 
-Em 2023 iniciei minha transição de carreira para tecnologia. Comecei pela interface e evoluí para aplicações completas, trabalhando com APIs, autenticação, banco de dados, regras de negócio, integrações e deploy.
+## Projetos principais
 
-Atualmente curso **Engenharia de Software** e aprofundo minha base em backend e arquitetura de aplicações.
+### TERON Platform
+Plataforma Full Stack B2B com **5 superfícies de produto** e fluxo operacional de **7 etapas**, conectando diagnóstico, lead, proposta, aprovação, projeto, portal do cliente e entrega.
 
-## Projetos selecionados
+**Stack:** Next.js · React · TypeScript · MongoDB · Mongoose · Resend · Mercado Pago · Vercel
 
-**Áurea** · SaaS B2B  
-Precificação, clientes, propostas e contratos em um único produto.  
-[Case](https://thomaseduardo.com.br/projetos/aurea) · [Código](https://github.com/devthomaseduardo/aurea)
+[Repositório](https://github.com/devthomaseduardo/TERON-Platform) · [Projeto](https://teron.thomaseduardo.com.br)
 
-**TERON** · Plataforma  
-Produto que conecta diferentes etapas de uma operação.  
-[Platform](https://github.com/devthomaseduardo/TERON-Platform) · [TERON OS](https://github.com/devthomaseduardo/teron-os)
+### Request Manager
+API REST para gestão de solicitações com **3 entidades principais**, **2 níveis de acesso**, **5 estados de solicitação** e **4 níveis de prioridade**. Possui autenticação JWT, autorização, validação e persistência relacional.
 
-**Minuta Fácil** · Produto Full Stack  
-Documentos, contratos e propostas com recursos de IA aplicados ao fluxo do produto.  
-[Case](https://thomaseduardo.com.br/projetos/minuta-facil)
+**Stack:** Node.js · TypeScript · Fastify · PostgreSQL · Prisma · JWT · Zod
 
-**Falling in Reverse** · Em desenvolvimento  
-Projeto atual com foco em arquitetura, backend e evolução de produto.
+[Repositório](https://github.com/devthomaseduardo/request-manager)
 
-## Stack
+### TERON OS
+Plataforma multi-tenant para automação comercial e atendimento via WhatsApp, com painel administrativo, fluxos de atendimento, pagamentos e estrutura preparada para diferentes nichos de negócio.
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-1C1D20?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-1C1D20?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-1C1D20?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-1C1D20?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-1C1D20?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-1C1D20?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-1C1D20?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
-</p>
+**Stack:** Node.js · TypeScript · WPPConnect · Docker · Mercado Pago · Gemini · APIs
+
+[Repositório](https://github.com/devthomaseduardo/teron-os)
+
+### Minuta Fácil
+Plataforma Full Stack multiusuário para criação e gestão de documentos, com **9 tipos de documentos**, autenticação, PostgreSQL, API REST documentada e assistência de IA executada no backend.
+
+**Stack:** React · TypeScript · Node.js · Express · PostgreSQL · Firebase Auth · Gemini · Swagger · Stripe
+
+[Repositório](https://github.com/devthomaseduardo/minuta-facil) · [Projeto](https://minuta.thomaseduardo.com.br)
+
+### Onion Platform
+API backend com **5 endpoints** disponibilizada através da rede Tor via Onion Service, organizada em controllers, services, routes, schemas e integração com PostgreSQL.
+
+**Stack:** Node.js · Fastify · PostgreSQL · Tor · Onion Service · Linux
+
+[Repositório](https://github.com/devthomaseduardo/onion-platform)
+
+### Áurea
+SaaS comercial B2B com **8 módulos principais**, precificação multi-etapas, clientes, propostas, contratos, analytics e persistência local ou em nuvem.
+
+**Stack:** React · TypeScript · Vite · Firebase · Zustand · TanStack Query · Zod
+
+[Repositório](https://github.com/devthomaseduardo/aurea) · [Projeto](https://aurea.thomaseduardo.com.br)
+
+## Stack principal
+
+**Front-end:** React · Next.js · TypeScript · JavaScript · Tailwind CSS
+
+**Back-end:** Node.js · Fastify · Express · APIs REST · JWT · Zod
+
+**Dados:** PostgreSQL · Prisma ORM · MongoDB · Mongoose · Firebase · Supabase
+
+**Infraestrutura e ferramentas:** Docker · Linux · Git · GitHub · Postman · Vercel · AWS
+
+## Outros projetos
+
+Também mantenho projetos voltados a automação de ambiente de desenvolvimento, sistemas para restaurantes, captação de leads, aplicações comerciais e estudos de backend. Os cases completos estão disponíveis no meu [portfólio](https://thomaseduardo.com.br/projetos).
+
+## Formação e certificações
+
+**Engenharia de Software** · graduação em andamento
+
+**AWS re/Start Graduate** · Amazon Web Services  
+**API REST** · Ada  
+**Fundamentos do Hardware do Computador** · Cisco Networking Academy  
+**User Experience Essentials** · FIAP
 
 ## Contato
 
