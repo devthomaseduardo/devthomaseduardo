@@ -1,80 +1,75 @@
 # Thomas Eduardo
 
-**Desenvolvedor Full Stack | React · TypeScript · Node.js · Next.js | APIs REST · PostgreSQL · Docker**
+**Full Stack Developer** · React · Next.js · TypeScript · Node.js  
+APIs REST · PostgreSQL · Docker · Cloud
 
-Desenvolvo aplicações web, APIs REST e produtos digitais de ponta a ponta, trabalhando com interface, regras de negócio, autenticação, dados, integrações, testes e publicação.
+Desenvolvo aplicações web e produtos digitais de ponta a ponta — da interface às regras de negócio, autenticação, dados, integrações e deploy.
 
-Atualmente curso **Engenharia de Software** e venho aprofundando minha atuação em desenvolvimento Full Stack, arquitetura backend, bancos de dados e infraestrutura.
+Atualmente curso **Engenharia de Software** e aprofundo arquitetura backend, bancos de dados e infraestrutura.
 
 [Portfólio](https://thomaseduardo.com.br) · [LinkedIn](https://linkedin.com/in/devthomaseduardo) · [Email](mailto:contato@thomaseduardo.com.br)
 
-## Projetos principais
+---
 
-### TERON Platform
-Plataforma Full Stack B2B com **5 superfícies de produto** e fluxo operacional de **7 etapas**, conectando diagnóstico, lead, proposta, aprovação, projeto, portal do cliente e entrega.
+## Projetos em destaque
 
-**Stack:** Next.js · React · TypeScript · MongoDB · Mongoose · Resend · Mercado Pago · Vercel
+### [TERON Platform](https://teron.thomaseduardo.com.br)
+Plataforma Full Stack B2B com **5 superfícies de produto** e fluxo operacional de **7 etapas**: diagnóstico → lead → proposta → aprovação → projeto → portal do cliente → entrega.
 
-[Repositório](https://github.com/devthomaseduardo/TERON-Platform) · [Projeto](https://teron.thomaseduardo.com.br)
+`Next.js` `React` `TypeScript` `MongoDB` `Mongoose` `Resend` `Mercado Pago` `Vercel`  
+[Repositório](https://github.com/devthomaseduardo/TERON-Platform)
 
-### Request Manager
-API REST para gestão de solicitações com **3 entidades principais**, **2 níveis de acesso**, **5 estados de solicitação** e **4 níveis de prioridade**. Possui autenticação JWT, autorização, validação e persistência relacional.
+### [Request Manager](https://github.com/devthomaseduardo/request-manager)
+API REST para gestão de solicitações com autenticação JWT, autorização por níveis, validação e persistência relacional.
 
-**Stack:** Node.js · TypeScript · Fastify · PostgreSQL · Prisma · JWT · Zod
+`Node.js` `TypeScript` `Fastify` `PostgreSQL` `Prisma` `JWT` `Zod`
 
-[Repositório](https://github.com/devthomaseduardo/request-manager)
+### [TERON OS](https://os.thomaseduardo.com.br)
+Plataforma multi-tenant de automação comercial e atendimento via WhatsApp, com painel admin, fluxos, pagamentos e suporte a múltiplos nichos.
 
-### TERON OS
-Plataforma multi-tenant para automação comercial e atendimento via WhatsApp, com painel administrativo, fluxos de atendimento, pagamentos e estrutura preparada para diferentes nichos de negócio.
+`Node.js` `TypeScript` `WPPConnect` `Docker` `Mercado Pago` `Gemini`
 
-**Stack:** Node.js · TypeScript · WPPConnect · Docker · Mercado Pago · Gemini · APIs
+### [Minuta Fácil](https://minuta.thomaseduardo.com.br)
+Workspace multiusuário para criação e gestão de documentos (contratos, NDAs, propostas, currículos) com assistência de IA no backend.
 
-[Repositório](https://github.com/devthomaseduardo/teron-os)
+`React` `TypeScript` `Node.js` `Express` `PostgreSQL` `Firebase Auth` `Gemini` `Swagger` `Stripe`  
+[Repositório](https://github.com/devthomaseduardo/minuta-facil)
 
-### Minuta Fácil
-Plataforma Full Stack multiusuário para criação e gestão de documentos, com **9 tipos de documentos**, autenticação, PostgreSQL, API REST documentada e assistência de IA executada no backend.
+### [Áurea](https://aurea.thomaseduardo.com.br)
+SaaS comercial B2B com precificação multi-etapas, clientes, propostas, contratos e analytics.
 
-**Stack:** React · TypeScript · Node.js · Express · PostgreSQL · Firebase Auth · Gemini · Swagger · Stripe
+`React` `TypeScript` `Vite` `Firebase` `Zustand` `TanStack Query` `Zod`  
+[Repositório](https://github.com/devthomaseduardo/aurea)
 
-[Repositório](https://github.com/devthomaseduardo/minuta-facil) · [Projeto](https://minuta.thomaseduardo.com.br)
+### [Onion Platform](https://github.com/devthomaseduardo/onion-platform)
+API backend exposta via **Onion Service** (rede Tor), com arquitetura em camadas e PostgreSQL.
 
-### Onion Platform
-API backend com **5 endpoints** disponibilizada através da rede Tor via Onion Service, organizada em controllers, services, routes, schemas e integração com PostgreSQL.
+`Node.js` `Fastify` `PostgreSQL` `Tor` `Linux`
 
-**Stack:** Node.js · Fastify · PostgreSQL · Tor · Onion Service · Linux
+---
 
-[Repositório](https://github.com/devthomaseduardo/onion-platform)
+## Stack
 
-### Áurea
-SaaS comercial B2B com **8 módulos principais**, precificação multi-etapas, clientes, propostas, contratos, analytics e persistência local ou em nuvem.
+| Área | Tecnologias |
+|------|-------------|
+| **Front-end** | React · Next.js · TypeScript · JavaScript · Tailwind CSS |
+| **Back-end** | Node.js · Fastify · Express · APIs REST · JWT · Zod |
+| **Dados** | PostgreSQL · Prisma · MongoDB · Mongoose · Firebase · Supabase |
+| **Infra** | Docker · Linux · Git · GitHub · Vercel · AWS |
 
-**Stack:** React · TypeScript · Vite · Firebase · Zustand · TanStack Query · Zod
+---
 
-[Repositório](https://github.com/devthomaseduardo/aurea) · [Projeto](https://aurea.thomaseduardo.com.br)
+## Formação & certificações
 
-## Stack principal
+- **Engenharia de Software** — graduação em andamento  
+- **AWS re/Start Graduate** — Amazon Web Services  
+- **API REST** — Ada  
+- **Fundamentos do Hardware do Computador** — Cisco Networking Academy  
+- **User Experience Essentials** — FIAP  
 
-**Front-end:** React · Next.js · TypeScript · JavaScript · Tailwind CSS
-
-**Back-end:** Node.js · Fastify · Express · APIs REST · JWT · Zod
-
-**Dados:** PostgreSQL · Prisma ORM · MongoDB · Mongoose · Firebase · Supabase
-
-**Infraestrutura e ferramentas:** Docker · Linux · Git · GitHub · Postman · Vercel · AWS
-
-## Outros projetos
-
-Também mantenho projetos voltados a automação de ambiente de desenvolvimento, sistemas para restaurantes, captação de leads, aplicações comerciais e estudos de backend. Os cases completos estão disponíveis no meu [portfólio](https://thomaseduardo.com.br/projetos).
-
-## Formação e certificações
-
-**Engenharia de Software** · graduação em andamento
-
-**AWS re/Start Graduate** · Amazon Web Services  
-**API REST** · Ada  
-**Fundamentos do Hardware do Computador** · Cisco Networking Academy  
-**User Experience Essentials** · FIAP
+---
 
 ## Contato
 
-[Portfólio](https://thomaseduardo.com.br) · [LinkedIn](https://linkedin.com/in/devthomaseduardo) · [Email](mailto:contato@thomaseduardo.com.br)
+Prefere conversar?  
+[Portfólio](https://thomaseduardo.com.br) · [LinkedIn](https://linkedin.com/in/devthomaseduardo) · [contato@thomaseduardo.com.br](mailto:contato@thomaseduardo.com.br)
