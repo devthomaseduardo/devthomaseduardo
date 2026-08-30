@@ -1,6 +1,5 @@
 <img src="./assets/og-image.jpg" alt="Thomas Eduardo | Full Stack Developer" width="100%" />
 
-# Thomas Eduardo
 
 **Full Stack Developer**
 React · Next.js · TypeScript · Node.js · PostgreSQL · Docker · AWS
