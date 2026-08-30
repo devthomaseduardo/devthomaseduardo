@@ -1,75 +1,234 @@
+<img src="./assets/banner.png" alt="Thomas Eduardo | Full Stack Developer" width="100%" />
+
 # Thomas Eduardo
 
-**Full Stack Developer** · React · Next.js · TypeScript · Node.js  
-APIs REST · PostgreSQL · Docker · Cloud
+**Full Stack Developer**
+React · Next.js · TypeScript · Node.js · PostgreSQL · Docker · AWS
 
-Desenvolvo aplicações web e produtos digitais de ponta a ponta — da interface às regras de negócio, autenticação, dados, integrações e deploy.
+Desenvolvimento de aplicações web completas, APIs, bancos de dados, integrações e infraestrutura.
 
-Atualmente curso **Engenharia de Software** e aprofundo arquitetura backend, bancos de dados e infraestrutura.
+<a href="https://thomaseduardo.com.br">
+  <img src="https://img.shields.io/badge/Portfólio-000000?style=flat-square&logo=vercel&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/devthomaseduardo">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:contato@thomaseduardo.com.br">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
 
-[Portfólio](https://thomaseduardo.com.br) · [LinkedIn](https://linkedin.com/in/devthomaseduardo) · [Email](mailto:contato@thomaseduardo.com.br)
+<br>
 
----
+<table>
+<tr>
+<td width="55%" valign="top">
 
-## Projetos em destaque
+## Sobre
 
-### [TERON Platform](https://teron.thomaseduardo.com.br)
-Plataforma Full Stack B2B com **5 superfícies de produto** e fluxo operacional de **7 etapas**: diagnóstico → lead → proposta → aprovação → projeto → portal do cliente → entrega.
+Desenvolvedor Full Stack com foco na construção de aplicações web, APIs e produtos digitais.
 
-`Next.js` `React` `TypeScript` `MongoDB` `Mongoose` `Resend` `Mercado Pago` `Vercel`  
-[Repositório](https://github.com/devthomaseduardo/TERON-Platform)
+Atuo entre interface, backend, regras de negócio, autenticação, bancos de dados, integrações e infraestrutura.
 
-### [Request Manager](https://github.com/devthomaseduardo/request-manager)
-API REST para gestão de solicitações com autenticação JWT, autorização por níveis, validação e persistência relacional.
+Minha stack principal é baseada em **TypeScript, React, Next.js e Node.js**.
 
-`Node.js` `TypeScript` `Fastify` `PostgreSQL` `Prisma` `JWT` `Zod`
+</td>
 
-### [TERON OS](https://os.thomaseduardo.com.br)
-Plataforma multi-tenant de automação comercial e atendimento via WhatsApp, com painel admin, fluxos, pagamentos e suporte a múltiplos nichos.
+<td width="45%" valign="top">
 
-`Node.js` `TypeScript` `WPPConnect` `Docker` `Mercado Pago` `Gemini`
+## Formação
 
-### [Minuta Fácil](https://minuta.thomaseduardo.com.br)
-Workspace multiusuário para criação e gestão de documentos (contratos, NDAs, propostas, currículos) com assistência de IA no backend.
+**Engenharia de Software**
+Graduação em andamento
 
-`React` `TypeScript` `Node.js` `Express` `PostgreSQL` `Firebase Auth` `Gemini` `Swagger` `Stripe`  
-[Repositório](https://github.com/devthomaseduardo/minuta-facil)
+Foco atual em:
 
-### [Áurea](https://aurea.thomaseduardo.com.br)
-SaaS comercial B2B com precificação multi-etapas, clientes, propostas, contratos e analytics.
+`Backend` `Arquitetura` `Banco de Dados` `Cloud` `Infraestrutura`
 
-`React` `TypeScript` `Vite` `Firebase` `Zustand` `TanStack Query` `Zod`  
-[Repositório](https://github.com/devthomaseduardo/aurea)
+</td>
+</tr>
+</table>
 
-### [Onion Platform](https://github.com/devthomaseduardo/onion-platform)
-API backend exposta via **Onion Service** (rede Tor), com arquitetura em camadas e PostgreSQL.
+<br>
 
-`Node.js` `Fastify` `PostgreSQL` `Tor` `Linux`
+## Stack principal
 
----
+<table>
+<tr>
+<td width="25%" valign="top">
 
-## Stack
+### Front-end
 
-| Área | Tecnologias |
-|------|-------------|
-| **Front-end** | React · Next.js · TypeScript · JavaScript · Tailwind CSS |
-| **Back-end** | Node.js · Fastify · Express · APIs REST · JWT · Zod |
-| **Dados** | PostgreSQL · Prisma · MongoDB · Mongoose · Firebase · Supabase |
-| **Infra** | Docker · Linux · Git · GitHub · Vercel · AWS |
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind" />
 
----
+<br>
 
-## Formação & certificações
+`TypeScript`
+`React`
+`Next.js`
+`Tailwind CSS`
 
-- **Engenharia de Software** — graduação em andamento  
-- **AWS re/Start Graduate** — Amazon Web Services  
-- **API REST** — Ada  
-- **Fundamentos do Hardware do Computador** — Cisco Networking Academy  
-- **User Experience Essentials** — FIAP  
+</td>
 
----
+<td width="25%" valign="top">
+
+### Back-end
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+<br>
+
+`Node.js`
+`Fastify`
+`Express`
+`REST APIs`
+
+</td>
+
+<td width="25%" valign="top">
+
+### Dados
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" />
+
+<br>
+
+`PostgreSQL`
+`MongoDB`
+`Prisma`
+`Firebase`
+
+</td>
+
+<td width="25%" valign="top">
+
+### Infra
+
+<img src="https://skillicons.dev/icons?i=docker,linux,aws,vercel" />
+
+<br>
+
+`Docker`
+`Linux`
+`AWS`
+`Vercel`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Certificações
+
+<table>
+<tr>
+
+<td width="25%" valign="top">
+
+<a href="LINK-DA-CREDENCIAL-AWS">
+  <img src="./assets/aws-restart.png" width="110" alt="AWS re/Start Graduate">
+</a>
+
+<br>
+
+**AWS re/Start Graduate**
+Amazon Web Services
+
+</td>
+
+<td width="25%" valign="top">
+
+<a href="LINK-DA-CREDENCIAL-CISCO">
+  <img src="./assets/cisco-hardware.png" width="110" alt="Cisco Networking Academy">
+</a>
+
+<br>
+
+**Computer Hardware Basics**
+Cisco Networking Academy
+
+</td>
+
+<td width="25%" valign="top">
+
+<img src="./assets/ada-api-rest.png" width="110" alt="Ada API REST">
+
+<br>
+
+**API REST**
+Ada
+
+</td>
+
+<td width="25%" valign="top">
+
+<img src="./assets/fiap-ux.png" width="110" alt="FIAP User Experience Essentials">
+
+<br>
+
+**User Experience Essentials**
+FIAP
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+## Tecnologias
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,postgres,mongodb,prisma,firebase,supabase,docker,linux,aws,git,github,vercel,vite,tailwind" />
+
+<br><br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Desenvolvimento
+
+`TypeScript` · `JavaScript` · `React` · `Next.js` · `Node.js` · `Fastify` · `Express`
+
+</td>
+
+<td width="50%" valign="top">
+
+### Plataforma
+
+`PostgreSQL` · `MongoDB` · `Prisma` · `Docker` · `Linux` · `AWS` · `Vercel`
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ## Contato
 
-Prefere conversar?  
-[Portfólio](https://thomaseduardo.com.br) · [LinkedIn](https://linkedin.com/in/devthomaseduardo) · [contato@thomaseduardo.com.br](mailto:contato@thomaseduardo.com.br)
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+**Portfólio**
+[thomaseduardo.com.br](https://thomaseduardo.com.br)
+
+</td>
+
+<td width="33%" valign="top">
+
+**LinkedIn**
+[devthomaseduardo](https://linkedin.com/in/devthomaseduardo)
+
+</td>
+
+<td width="33%" valign="top">
+
+**Email**
+[contato@thomaseduardo.com.br](mailto:contato@thomaseduardo.com.br)
+
+</td>
+
+</tr>
+</table>
