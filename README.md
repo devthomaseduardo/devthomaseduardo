@@ -1,4 +1,4 @@
-<img src="./assets/banner.png" alt="Thomas Eduardo | Full Stack Developer" width="100%" />
+<img src="./assets/og-image.jpg" alt="Thomas Eduardo | Full Stack Developer" width="100%" />
 
 # Thomas Eduardo
 
