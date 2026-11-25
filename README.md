@@ -60,10 +60,7 @@ const thomas = {
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| **Atrio** | Atendimento no WhatsApp multi-nicho, com painel do dono, super-admin e configuração self-service | TypeScript |
-| **Teron** | Produtos digitais com diagnósticos e portal cliente/admin | TypeScript |
 | **Faro** | Busca e alertas de licitações de obras com dados públicos do PNCP | TypeScript |
-| **Minuta Fácil** | Workspace de contratos, NDAs, propostas e currículos com IA | React · Express · Gemini |
 | **Sobra** | Finanças pessoais: quanto ainda dá para gastar no dia, contas do casal e plano para sair do vermelho. Funciona offline | HTML · JavaScript |
 | **Relay** | Equipe de IAs com contexto único, memória comum e vigia | JavaScript |
 | **Audit Monster** | CLI que audita UI, acessibilidade, segurança e higiene do código | JavaScript |
