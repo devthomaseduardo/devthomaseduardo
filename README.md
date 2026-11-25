@@ -1,6 +1,6 @@
-<img src="./assets/og-image.jpg" alt="Thomas Eduardo | Full Stack Developer" width="100%" />
+<img src="./assets/og-image.jpg" alt="Thomas Nascimento | Full Stack Developer" width="100%" />
 
-<h1 align="center">Thomas Eduardo</h1>
+<h1 align="center">Thomas Nascimento</h1>
 
 <p align="center">
   <b>Desenvolvedor Full Stack</b> · SaaS, APIs e produtos web em produção<br>
@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://thomaseduardo.com.br"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/devthomaseduardo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/devthomasnascimento"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:contato@thomaseduardo.com.br"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -17,10 +17,11 @@
 
 ## Sobre
 
-Construo produtos web de ponta a ponta: **interface, API, dados, autenticação e deploy**.
-Desde 2024 entreguei **17 projetos (11 publicados)**, entre SaaS B2B, plataformas com pagamento e produtos com IA.
+Passei 5 anos no chão de loja. Hoje construo os sistemas.
 
-Antes da tecnologia trabalhei com varejo, educação e logística. Isso me ajuda a entender a regra de negócio antes de escrever o código.
+Dev Full Stack na **Inoltra Tech** (SaaS com Python/FastAPI, Next.js e PostgreSQL) e freelancer com **17 projetos entregues**: APIs, SaaS e plataformas com pagamento.
+
+Gosto de código simples, PR pequeno e software que não precisa de manual.
 
 ```ts
 const thomas = {
@@ -44,27 +45,22 @@ const thomas = {
 </tr>
 </table>
 
-<p align="center"><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,python,fastapi,postgres,mongodb,prisma,firebase,supabase,docker,linux,aws,git,github,githubactions,vercel,vite,tailwind&perline=11" /></p>
 
 ## Projetos em destaque
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| [**TERON**](https://github.com/devthomaseduardo/teron) | Plataforma B2B: leads, propostas, projetos, portal do cliente e checkout | Next.js · TypeScript · MongoDB · Mercado Pago |
-| [**TERON OS**](https://github.com/devthomaseduardo/teron-os) | Sistema operacional empresarial com bot de atendimento no WhatsApp | TypeScript · Node.js |
 | [**Request Manager**](https://github.com/devthomaseduardo/request-manager) | API REST de solicitações com RBAC, estados e prioridades | Node.js · Fastify · PostgreSQL · Prisma |
 | [**Auditor de Contatos Web**](https://github.com/devthomaseduardo/auditor-contatos-web) | API que varre domínios e registra contatos públicos, com Swagger e testes | Python · Scrapy · Docker |
 | [**Onion Platform**](https://github.com/devthomaseduardo/onion-platform) | API em camadas publicada como Onion Service na rede Tor | Node.js · Fastify · PostgreSQL · Linux |
-| [**TERON Bot**](https://github.com/devthomaseduardo/teron-bot-agente) | Atendimento no WhatsApp multi-nicho com painel do dono e super-admin | TypeScript · React |
 
 ## Certificações
 
 - **AWS re/Start Graduate**: Amazon Web Services
-- **Computer Hardware Basics**: Cisco Networking Academy
 - **API REST**: Ada
 - **User Experience Essentials**: FIAP
 
 ## Contato
 
 Aberto a oportunidades como **Desenvolvedor Full Stack**.
-[thomaseduardo.com.br](https://thomaseduardo.com.br) · [LinkedIn](https://linkedin.com/in/devthomaseduardo) · [contato@thomaseduardo.com.br](mailto:contato@thomaseduardo.com.br)
+[thomaseduardo.com.br](https://thomaseduardo.com.br) · [LinkedIn](https://linkedin.com/in/devthomasnascimento) · [contato@thomaseduardo.com.br](mailto:contato@thomaseduardo.com.br)
