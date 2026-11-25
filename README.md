@@ -54,6 +54,22 @@ const thomas = {
 | [**Auditor de Contatos Web**](https://github.com/devthomaseduardo/auditor-contatos-web) | API que varre domínios e registra contatos públicos, com Swagger e testes | Python · Scrapy · Docker |
 | [**Onion Platform**](https://github.com/devthomaseduardo/onion-platform) | API em camadas publicada como Onion Service na rede Tor | Node.js · Fastify · PostgreSQL · Linux |
 
+## Projetos privados
+
+<sub>Código fechado (produtos próprios e de clientes). Demonstração sob pedido.</sub>
+
+| Projeto | O que é | Stack |
+|---|---|---|
+| **Atrio** | Atendimento no WhatsApp multi-nicho, com painel do dono, super-admin e configuração self-service | TypeScript |
+| **Teron** | Produtos digitais com diagnósticos e portal cliente/admin | TypeScript |
+| **Faro** | Busca e alertas de licitações de obras com dados públicos do PNCP | TypeScript |
+| **Minuta Fácil** | Workspace de contratos, NDAs, propostas e currículos com IA | React · Express · Gemini |
+| **Sobra** | Finanças pessoais: quanto ainda dá para gastar no dia, contas do casal e plano para sair do vermelho. Funciona offline | HTML · JavaScript |
+| **Relay** | Equipe de IAs com contexto único, memória comum e vigia | JavaScript |
+| **Audit Monster** | CLI que audita UI, acessibilidade, segurança e higiene do código | JavaScript |
+| **thomaseduardo.com.br** | Portfólio profissional | TypeScript |
+| **Landing pages de clientes** | 5 LPs e sites institucionais focados em conversão, com checkout e analytics | TypeScript · React |
+
 ## Certificações
 
 - **AWS re/Start Graduate**: Amazon Web Services
