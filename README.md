@@ -50,12 +50,9 @@ const thomas = {
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| **TERON** | Plataforma B2B: leads, propostas, projetos, portal do cliente e checkout | Next.js · TypeScript · MongoDB · Mercado Pago |
-| **TERON OS** | Sistema operacional empresarial com bot de atendimento no WhatsApp | TypeScript · Node.js |
 | [**Request Manager**](https://github.com/devthomaseduardo/request-manager) | API REST de solicitações com RBAC, estados e prioridades | Node.js · Fastify · PostgreSQL · Prisma |
 | [**Auditor de Contatos Web**](https://github.com/devthomaseduardo/auditor-contatos-web) | API que varre domínios e registra contatos públicos, com Swagger e testes | Python · Scrapy · Docker |
 | [**Onion Platform**](https://github.com/devthomaseduardo/onion-platform) | API em camadas publicada como Onion Service na rede Tor | Node.js · Fastify · PostgreSQL · Linux |
-| **TERON Bot** | Atendimento no WhatsApp multi-nicho com painel do dono e super-admin | TypeScript · React |
 
 ## Certificações
 
